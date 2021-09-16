@@ -1,0 +1,19 @@
+{
+  "name": "datastructurepractice",
+  "version": "1.0.0",
+  "description": "This project contains personal practice for datastructures and searching algorithms.",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samimhoff/datastructures.git"
+  },
+  "author": "Sam Imhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samimhoff/datastructures/issues"
+  },
+  "homepage": "https://github.com/samimhoff/datastructures#readme"
+}
